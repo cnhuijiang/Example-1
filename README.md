@@ -1,10 +1,6 @@
 ## Google
 #### Google Map
 
-![title]() 
-
-## ![Google Picture]() 
-
 [Example 2](https://github.com/cnhuijiang/Example-1/blob/master/Example-2)
 
 [Google](https://www.google.com)
