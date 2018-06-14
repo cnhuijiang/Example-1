@@ -25,7 +25,7 @@ print A
 * ~~No search~~
 
 | Google        | user           | number  |
-| ------------- |-------------| -----|
-| Map           | student       |  2000 |
-| Video         | man           |  1000 |
-| Search        | everyone      |  3000 |
+| ------------- |:-------------: | -----:   |
+| Map           | student        |  2000    |
+| Video         | man            |  1000    |
+| Search        | everyone       |  3000    |
